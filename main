@@ -1,0 +1,7 @@
+import torchvision  # Add this line
+import torch
+
+print(f"Torch: {torch.__version__}")
+print(f"Vision: {torchvision.__version__}")
+
+print(torch.cuda.is_available())  # Doit retourner True

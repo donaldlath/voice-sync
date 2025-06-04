@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+768252015a94ab4f89cf12d69b4560680b47de3d refs/heads/arnaud/backend
+5efe2b836cd2afcc1441bca744d7ab9fded11e74 refs/heads/main
+11b6cc5739626908599e89839c33ff63afaac4a9 refs/heads/marcelofrontend
+768252015a94ab4f89cf12d69b4560680b47de3d refs/pull/1/head
+9f3c5fefa245b515d8ee0a83943e9eb56e53b393 refs/pull/1/merge

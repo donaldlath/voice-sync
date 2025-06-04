@@ -44,4 +44,3 @@ voice-sync/
 *.tflite
 ffmpeg/
 "@ > .gitignore
-v
