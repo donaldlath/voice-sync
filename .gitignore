@@ -1,0 +1,47 @@
+@"
+# Fichiers temporaires et systèmes
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+
+# Modèles et poids très lourds
+*.ckpt
+*.pth
+*.pt
+*.h5
+checkpoints/
+models/
+
+# Données
+*.mp4
+*.wav
+*.avi
+*.mov
+*.zip
+*.tar.gz
+*.npz
+*.npy
+results/
+input/
+temp/
+*.s3fd-619a316812.pth
+
+# Cache & environnements
+.env
+.env.*
+venv/
+env/
+.idea/
+.vscode/
+pytorch_env/
+voice-sync/
+
+# Git LFS s’occupe de gros fichiers, mais tu peux aussi les ignorer
+*.pb
+*.onnx
+*.bin
+*.tflite
+ffmpeg/
+"@ > .gitignore
+v
